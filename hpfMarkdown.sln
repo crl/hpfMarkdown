@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hpfMarkdown", "hpfMarkdown\hpfMarkdown.csproj", "{D1802EA9-A541-4A0A-8C06-B3CDF1F07205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1802EA9-A541-4A0A-8C06-B3CDF1F07205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1802EA9-A541-4A0A-8C06-B3CDF1F07205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1802EA9-A541-4A0A-8C06-B3CDF1F07205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1802EA9-A541-4A0A-8C06-B3CDF1F07205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F56248E-C344-4D88-ADB6-5309B11AC1FA}
+	EndGlobalSection
+EndGlobal
